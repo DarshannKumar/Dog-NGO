@@ -128,7 +128,7 @@ GOOGLE_SECRET = <Your google private key found on developers console>
 
 
 
-## 🏗️ How to Set up `Bayzuban` for Development
+## 🏗️ How to Set up `VS code ` for Development
 
 1. Clone the repository
 

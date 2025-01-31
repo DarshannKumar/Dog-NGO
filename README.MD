@@ -145,13 +145,13 @@ cd MERN_animal_rescue
 3. Install dependencies
 
 ```bash
-npm install # or, yarn install
+npm install i /npm build 
 ```
 
 4. Run the app
 
 ```bash
-npm run dev # or, yarn dev
+npm run dev 
 ```
 
 That's All!!! Now open [localhost:4000](http://localhost:4000/) to see the app.

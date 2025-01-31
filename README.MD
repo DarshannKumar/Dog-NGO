@@ -117,6 +117,7 @@ GOOGLE_SECRET = <Your google private key found on developers console>
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.4",
     "nodemailer": "^6.7.7",
+    "stripe": "^3.2.5",
     "winston": "^3.8.1"
     }
 

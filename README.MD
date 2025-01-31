@@ -1,15 +1,15 @@
-# :smiley_cat: Animal Rescue 
+# :smiley_cat: Dog-NGO 
 
-Hey everyone, presenting to you *Bay-Zuban* an animal rescue portal where you can adopt different pet as well as put multiple pets up for adoption. The portal has an admin and nomral user views where admin can add and delete pets whereas user can only view them or adopt them.  The app is built on the MERNG stack and also includes login through your Google account!.
+Hey everyone, presenting to you *Darshan M K* an animal rescue portal where you can donate for dogs  as well as put multiple pets up for happy and caring environment. The portal has an admin and nomral user views where admin can add and delete pets whereas user can only view them or adopt them.  The app is built on the MERN stack and also includes login through your Google account!.
 
 ## :ticket: Demo
 
 A link for the demo is given below:
 
-:link: https://bayzuban.herokuapp.com
+:link: https://darshan.herokuapp.com
 
 _User account_:
-```bash
+```darsh
 username: admin
 password: 12345678
 ```
@@ -48,13 +48,13 @@ GOOGLE_SECRET = <Your google private key found on developers console>
 ## :camera: Screenshots
 
 ### Landing page
-![](https://github.com/hunter10471/MERN_animal_resuce/blob/master/screenshots/ss1.png?raw=true)
+![](https://github.com/hunter10471/Dog-NGO/blob/master/screenshots/ss1.png?raw=true)
 
 ### Login Page
-![](https://github.com/hunter10471/MERN_animal_resuce/blob/master/screenshots/ss2.png?raw=true)
+![](https://github.com/hunter10471/Dog-NGO/blob/master/screenshots/ss2.png?raw=true)
 
 ### Pet page
-![](https://raw.githubusercontent.com/hunter10471/MERN_animal_resuce/master/screenshots/ss3.png)
+![](https://raw.githubusercontent.com/darshannKumar/Dog-NGO/master/screenshots/ss3.png)
 
 ## :key: Client Dependencies
 
@@ -133,7 +133,7 @@ GOOGLE_SECRET = <Your google private key found on developers console>
 1. Clone the repository
 
 ```bash
-git clone https://github.com/hunter10471/MERN_animal_rescue.git
+git clone https://github.com/darshannKumar/Dog-NGO.git
 ```
 
 2. Change the working directory
